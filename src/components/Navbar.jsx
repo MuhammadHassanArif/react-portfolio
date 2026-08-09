@@ -50,7 +50,7 @@ const Navbar = () => {
 
             {/* Mobile bottton */}
 
-             <div className='md:hidden'>
+             <div className='md:hidden ml-5'>
 
                 {
                     showMenu ? 
